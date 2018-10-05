@@ -1,0 +1,72 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/setting_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/paper"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="@string/setting"
+        android:textSize="50dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tviewlang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="52dp"
+        android:layout_marginRight="52dp"
+        android:layout_marginTop="50dp"
+        android:text="@string/settingtext"
+        android:textColor="#000"
+        android:textSize="20dp" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout_attendees"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <RadioGroup
+            android:id="@+id/setting_language"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checkedButton="1"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/check_ar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/settingAr"
+                android:textSize="20dp"
+                android:textColor="#000" />
+
+            <RadioButton
+                android:id="@+id/check_en"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@string/settingEn"
+                android:textSize="20dp"
+                android:textColor="#000" />
+        </RadioGroup>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/ok"
+        android:layout_marginTop="200dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/settingDone"
+        android:background="@drawable/roundshap"/>
+</LinearLayout>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">وصلني</string>
+
+    <string name="home">الرئيسية</string>
+    <string name="setting">الاعدادات</string>
+    <string name="about">عن البرنامج</string>
+    <string name="contacts">التواصل</string>
+    <string name="welcome">مرحبا...!</string>
+    <string name="welcometext">برنامج وصلني في خدمتك.</string>
+
+    <string name="abouttext">برنامج وصلني يساعدك لمعرفه افضل الطرق للوصول الي المحطة التي تريدها\n\nننتظر تعليقك في صفحة التواصل
+        \n\nVersion: 1.1</string>
+    <string name="contactstext">Developed by Marco Mouns</string>
+
+    <string name="homefrom">من</string>
+    <string name="hometo">الي</string>
+    <!--<string name="homeresult">To</string>-->
+    <string name="settingtext">اختار اللغة المراد عرضها:</string>
+    <string name="settingAr"> العربية   </string>
+    <string name="settingEn"> الانجليزية   </string>
+    <string name="settingDone">تم</string>
+
+    <string name="fababout">عن البرنامج.</string>
+    <string name="fabhome">الصفحة الرئيسية.</string>
+    <string name="Nothing_Selected">قم بتحديد اللغة.</string>
+    <string name="start">أبدا</string>
+
+    <string name="Shobra_El_Kheima">1- شبرا الخيمة</string>
+    <string name="Koliet_El_Zeraa">2- كلية الزراعة</string>
+    <string name="Mezallat">3- المظلات</string>
+    <string name="Khalafawy">4- الخلفاوي</string>
+    <string name="Sainte_Teresa">5- سانت تريزا</string>
+    <string name="Road_El_Farag">6- روض الفرج</string>
+    <string name="Massara">7- مسرة</string>
+    <string name="Al_Shohadaa">8- الشهداء *</string>
+    <string name="Ataba">9- العتبة *</string>
+    <string name="Mohamed_Naguib">10- محمد نجيب</string>
+    <string name="Al_Sadat">11- السادات *</string>
+    <string name="Opera">12- الاوبرة</string>
+    <string name="Dokki">13- الدقي</string>
+    <string name="Bohooth">14- البحوث</string>
+    <string name="Cairo_University">15- جامعة القاهرة</string>
+    <string name="Faisal">16- فيصل</string>
+    <string name="Giza">17- الجيزة</string>
+    <string name="Omm_el_Misryeen">18- ام المصرين</string>
+    <string name="Sakiat_Mekki">19- ساقية ميكي</string>
+    <string name="El_Mounib">20- المنيب</string>
+
+
+
+    <string name="note1">\nملحوظة: هذه المحطة تساعدك علي استخدام الخط الاول.</string>
+    <string name="note2">\nملحوظة: هذه المحطة تساعدك علي استخدام الخط الثاني.</string>
+    <string name="Shobra_way">اتجاه شبرا.</string>
+    <string name="Giza_way">اتجاه الجيزة.</string>
+    <string name="The_way">الاتجاه: </string>
+    <string name="Number_of_Station">\nعدد المحطات: </string>
+    <string name="Average_time">\nمتوسط الوقت: </string>
+    <string name="Minutes">دقيقة.\n</string>
+
+
+
+
+
+
+
+
+</resources>

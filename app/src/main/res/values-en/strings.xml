@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WaslnY</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="about">About</string>
+    <string name="contacts">Contacts</string>
+    <string name="welcome">Welcome...!</string>
+    <string name="welcometext">WaslnY App in your service.</string>
+
+    <string name="abouttext">WaslnY AppLication help you to know the best way to get your destination.
+        \n\nFeel free to give me your feedback using Contact page.
+        \n\nVersion: 1.1</string>
+    <string name="contactstext">Developed by Marco Mouns</string>
+    <string name="homefrom">From</string>
+    <string name="hometo">To</string>
+    <!--<string name="homeresult">To</string>-->
+    <string name="settingtext">Select which language do you want to display:</string>
+    <string name="settingAr"> Arabic   </string>
+    <string name="settingEn"> English   </string>
+    <string name="settingDone">Done</string>
+
+    <string name="fababout">About Application.</string>
+    <string name="fabhome">Home Page.</string>
+    <string name="Nothing_Selected">Nothing Selected.</string>
+    <string name="start">Start</string>
+
+    <string name="Shobra_El_Kheima">1- Shobra El Kheima</string>
+    <string name="Koliet_El_Zeraa">2- Koliet El-Zeraa</string>
+    <string name="Mezallat">3- Mezallat</string>
+    <string name="Khalafawy">4- Khalafawy</string>
+    <string name="Sainte_Teresa">5- Sainte Teresa</string>
+    <string name="Road_El_Farag">6- Road El-Farag</string>
+    <string name="Massara">7- Massara</string>
+    <string name="Al_Shohadaa">8- Al Shohadaa *</string>
+    <string name="Ataba">9- Ataba *</string>
+    <string name="Mohamed_Naguib">10- Mohamed Naguib</string>
+    <string name="Al_Sadat">11- Al-Sadat *</string>
+    <string name="Opera">12- Opera</string>
+    <string name="Dokki">13- Dokki</string>
+    <string name="Bohooth">14- Bohooth</string>
+    <string name="Cairo_University">15- Cairo University</string>
+    <string name="Faisal">16- Faisal</string>
+    <string name="Giza">17- Giza</string>
+    <string name="Omm_el_Misryeen">18- Omm el Misryeen</string>
+    <string name="Sakiat_Mekki">19- Sakiat Mekki</string>
+    <string name="El_Mounib">20- El Mounib</string>
+
+    <string name="note1">\nNote: this station can help you to use Line 1</string>
+    <string name="note2">\nNote: this station can help you to use Line 3</string>
+    <string name="Shobra_way">Shobra way.</string>
+    <string name="Giza_way">Giza way.</string>
+    <string name="The_way">The Way: </string>
+    <string name="Number_of_Station">\nNumber of Station: </string>
+    <string name="Average_time">\nAverage time: </string>
+    <string name="Minutes"> minutes\n</string>
+
+</resources>
